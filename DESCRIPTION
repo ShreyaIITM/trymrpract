@@ -8,6 +8,7 @@ License: GPL(>= 2)
 Encoding: UTF-8
 LazyData: true
 Imports: knitr, rmarkdown, RadialMR, kableExtra, captioner, stringr, MRInstruments, TwoSampleMR, plotly
+Suggests: markdown
 Remotes: WSpiller/RadialMR,
          WSpiller/MVMR,
          MRCIEU/TwoSampleMR,
